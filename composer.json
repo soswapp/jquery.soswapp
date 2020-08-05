@@ -1,0 +1,19 @@
+{
+    "name": "soswapp/jquery.soswapp",
+    "description": "jQuery - optimized for 7 OS Web",
+    "keywords": ["css", "javascript","7","seven","os","web","jquery"],
+    "homepage": "https://github.com/soswapp/jquery.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
